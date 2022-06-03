@@ -31,4 +31,4 @@ def metadatos(ruta):
 
 
 
-metadatos("/Users/daniel/Documents/02_programas/python/tmp/input/IMG_0277.jpeg")
+metadatos("ruta")
